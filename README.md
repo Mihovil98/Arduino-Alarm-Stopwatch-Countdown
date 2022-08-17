@@ -4,7 +4,7 @@
 
 The RTC module was used to realize a system that measures time, and if necessary, the system can be used as an alarm clock, stopwatch or counter.
 
-By entering the desired letter in the serial monitor - n for the clock, u for updating the time on the clock, s for the stopwatch, and for the alarm clock or o for the countdown, the user selects the desired operation of the system.
+By entering the desired letter in the serial monitor - 'n' for the clock, 'u' for updating the time on the clock, 's' for the stopwatch, 'a' for the alarm clock or 'o' for the countdown - the user selects the desired operation of the system.
 
 ## Components Used
 
