@@ -8,7 +8,7 @@ By entering the desired letter in the serial monitor - 'n' for the clock, 'u' fo
 
 ## Components Used
 
-- LEDs
+- LED
 - Buzzer
 - RTC module
 - IIC LCD adapter + LCD 16x2
